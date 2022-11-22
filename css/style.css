@@ -1,0 +1,226 @@
+html {
+  background: url(../images2/forest1.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+body {
+  width: 850px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.535);
+}
+
+/* .body2 {
+  line-height: 1.8;
+  /* background: url(../images/bg/単色ピンク.png); */
+  /* background-color: #a015009a; */
+  /* font-family: 'Hachi Maru Pop', cursive; */
+} */
+
+main {
+  width: 980px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+header {
+  background-color: #a01400;
+  /* margin-bottom: 30px; */
+  /* background: url(../images/wallpaper/パンダの大群\ 2のコピー.jpeg);
+  color: #fff; */
+}
+
+.ldh_logo {
+  margin-bottom: -70px;
+  /* text-align: left; */
+  padding-left: 60px;
+  /* border-radius: 100%; */
+}
+
+header p {
+  text-align: left;
+  margin-bottom: 5em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 1em;
+  color: black;
+}
+
+nav {
+  margin-bottom: 2em;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li {
+  width: 160px;
+  text-align: center;
+}
+/* リンクの設定
+a:link {
+  color: #3d8304;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #3d8304;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ec380b;
+  text-decoration: none;
+} */
+
+article {
+  width: 780px;
+  margin: 0 auto;
+}
+
+.backcolor_01 {
+  background-color: #a01400;
+}
+
+h2 {
+  background: #000000;
+  padding: 15px;
+  color: #fff;
+  /* border-radius: 40px; */
+  text-align: center;
+  margin-bottom: 1em;
+  width: 0 auto;
+  margin: 0 auto;
+}
+/* h2 {
+  background: #3d8304;
+  padding: 15px;
+  color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  margin-bottom: 1em;
+} */
+
+dl {
+  margin-bottom: 1.5em;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.caption_2 {
+  /* background-color: #a01400; */
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin-bottom: 30px;
+}
+
+
+.caption01 {
+  /* background-color: #a01400; */
+  text-align: left;
+  margin-left: 300px;
+  color: rgb(0, 0, 0);
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.caption02 {
+  /* background-color: #a01400; */
+  text-align: right
+  margin-right: 300px;
+  color: rgb(0, 0, 0);
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.caption03 {
+  /* background-color: #a01400; */
+  text-align: left;
+  margin-left: 300px;
+  color: rgb(0, 0, 0);
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.caption04 {
+  /* background-color: #a01400; */
+  text-align: right
+  margin-right: 300px;
+  color: rgb(0, 0, 0);
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.jmp {
+  text-align: right;
+  margin-left: 700px;
+  font-size: 15px;
+  /* background-color: rgb(255, 255, 255); */
+
+}
+
+/* 説明文の部分に下側の余白を入れるためのクラス */
+
+footer {
+  background: #ffffff;
+  padding: 15px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 15px;
+}
+
+#book{
+  font-family: 'Noto Serif JP', serif;
+}
+
+
+#book{
+  font-family: 'Noto Serif JP', serif;
+  /* text-align: center; */
+}
+
+
+.ccca {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.ccc {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.ccc01 {
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 90px;
+  margin-bottom: 40px;
+}
+
+.ccc02 {
+  margin-top: 30px;
+  text-align: right;
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
+
+.ccc03 {
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 90px;
+  margin-bottom: 40px;
+}
+
+.ccc04 {
+  margin-top: 30px;
+  text-align: right;
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
